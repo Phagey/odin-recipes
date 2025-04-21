@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-size: large;
+    font-weight: 800;
+    font-style: normal;
+}
+
+div {
+    background-color: aqua;
+    color: solid black;
+    border-radius: 5px;
+}
+
+.egg {
+
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.lasagna {
+
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.sandwich {
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    background-color: pink;
+}
+
+.image {
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid #555;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: block;
+}
